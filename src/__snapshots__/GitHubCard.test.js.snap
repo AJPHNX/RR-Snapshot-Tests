@@ -1,0 +1,85 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders a snapshot 1`] = `
+<div
+  className="container"
+  style={
+    Object {
+      "marginTop": "1.5rem",
+    }
+  }
+>
+  <div
+    className="m-5 d-block card-group"
+    style={
+      Object {
+        "backgroundColor": "#e0f6ff",
+        "borderRadius": "20%",
+        "boxShadow": "1px 2px 9px #000000",
+        "padding": "3rem",
+      }
+    }
+  >
+    <div
+      className="card"
+      style={
+        Object {
+          "width": "20rem",
+        }
+      }
+    >
+      <div
+        className="card-header"
+      >
+        Github Profile Info:
+      </div>
+      <div
+        className="card-title h5"
+        style={
+          Object {
+            "paddingBottom": ".5rem",
+          }
+        }
+      />
+      <a
+        href=""
+      >
+        <button
+          className="btn btn-primary"
+          disabled={false}
+          style={
+            Object {
+              "borderRadius": ".3",
+              "boxShadow": "1px 1px 3px #000022",
+              "marginBottom": "1.5rem",
+              "zindex": "5",
+            }
+          }
+          type="button"
+        >
+          Link to GitHub profile
+        </button>
+      </a>
+      <img
+        alt="Github profile image"
+        className="card-img-top"
+        src=""
+        style={
+          Object {
+            "borderRadius": "50%",
+            "boxShadow": "1px 2px 9px #000000",
+            "height": "auto",
+            "margin": "1.5rem",
+            "objectFit": "cover",
+            "padding": ".25rem",
+            "width": "250px",
+          }
+        }
+      />
+      <div
+        className="card-body"
+      />
+    </div>
+  </div>
+</div>
+`;

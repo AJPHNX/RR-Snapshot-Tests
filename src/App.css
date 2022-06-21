@@ -1,0 +1,12 @@
+.App {
+  display: flex;
+  position: relative;
+  top: 0px;
+  margin: auto;
+  text-align: center;
+  justify-content: center;
+}
+
+button {
+  /* background-color: rgb(191, 190, 205); */
+}
